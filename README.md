@@ -12,7 +12,7 @@ A concise implementation of Low-Rank Adaptation (LoRA) for fine-tuning gpt2-medi
 ## Model and Dataset
 
 - Model: `gpt2-medium`
-- Dataset: Specified in Google Drive (e.g., AG News Classification Dataset -  https://www.kaggle.com/datasets/amananandrai/ag-news-classification-dataset?rvi=1)
+- Dataset: Needs to be located in Google Drive. Can be any type of dataset that works with gpt2, in this case it was a modified version of https://www.kaggle.com/datasets/amananandrai/ag-news-classification-dataset?rvi=1
 
 ## Features
 
