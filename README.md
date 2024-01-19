@@ -17,10 +17,8 @@ A concise implementation of Low-Rank Adaptation (LoRA) for fine-tuning gpt2-medi
 ## Features
 
 - Fine-tuning gpt2-medium with full parameter updates and LoRA.
-- Custom LoRA implementation for GPT-2's attention mechanism.
+- Custom LoRA implementation for GPT-2's attention mechanism - inspired by https://github.com/tsmatz/finetune_llm_with_lora
 - Utility functions for model evaluation and text generation.
-
-- The implementation of LoRA was inspired by https://github.com/tsmatz/finetune_llm_with_lora
 
 ## Limitations
 
